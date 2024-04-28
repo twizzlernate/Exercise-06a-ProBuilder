@@ -1,8 +1,9 @@
-# Exercise-06a-ProBuilder
+# Project-06
 
-# References
-
-Textures from: https://freepbr.com/
+# Instructions
+WASD and space key to move
+throw discs at the NPC using z to score points
+emote with keys x, c, v, b, n, and m
 
 # Created by 
 Nate Reininga
